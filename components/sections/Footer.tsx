@@ -21,7 +21,8 @@ export default function Footer() {
               Transforming the future of Building Information Modeling with AI.
             </p>
             <p className="text-sm text-foreground/50">
-              Registered Company: U43299MH2025PTC447936
+              Registered Company: U43299MH2025PTC447936<br/>
+              DIPP205481
             </p>
           </div>
 

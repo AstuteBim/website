@@ -58,7 +58,7 @@ export default function CTA() {
             </div>
             
             <div className="text-center mb-10">
-              <h2 className="text-3xl md:text-4xl font-bold">Be the First to Experience AI-Driven BIM</h2>
+              <h2 className="text-3xl md:text-4xl font-bold">Join the exclusive access to experience the world of AI in BIM</h2>
               <p className="mt-4 text-lg text-foreground/70 max-w-2xl mx-auto">
                 Join our early adopters and shape the future of BIM design
               </p>

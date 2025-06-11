@@ -13,13 +13,13 @@ import {
 
 const problems = [
   {
-    title: "Time-Consuming Process",
-    description: "BIM modeling can take weeks or months to complete",
+    title: "Family Creation",
+    description: "Custom family creation is time-consuming",
     icon: Clock
   },
   {
     title: "High Costs",
-    description: "Expensive software licenses and specialist staff",
+    description: "Buying and Creating Revit Families is expensive",
     icon: DollarSign
   },
   {
@@ -32,7 +32,7 @@ const problems = [
 const solutions = [
   {
     title: "AI-Powered Automation",
-    description: "Generate models in minutes or hours, not weeks",
+    description: "Generate family and models in minutes or hours, not weeks",
     icon: BrainCircuit
   },
   {
@@ -57,7 +57,7 @@ export default function ProblemSolution() {
     <section id="problem-solution" className="pt-20 py-20 bg-muted/30">
       <div className="container mx-auto px-4">
         <div className="text-center mb-16">
-          <h2 className="text-3xl md:text-4xl font-bold">Solving Real Problems in BIM</h2>
+          <h2 className="text-3xl md:text-4xl font-bold">We understand your challenges in BIM</h2>
           <p className="mt-4 text-lg text-foreground/70 max-w-2xl mx-auto">
             We're addressing the fundamental challenges that make BIM adoption difficult
           </p>
